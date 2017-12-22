@@ -1,0 +1,16 @@
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Common\bin\Debug\ZShop.Common.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Common\bin\Debug\ZShop.Common.pdb
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\bin\Debug\ZShop.Common.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\bin\Debug\ZShop.Common.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.csproj.CoreCompileInputs.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Common\bin\Debug\ZShop.Common.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Common\bin\Debug\ZShop.Common.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.csproj.CoreCompileInputs.cache
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.csprojResolveAssemblyReference.cache

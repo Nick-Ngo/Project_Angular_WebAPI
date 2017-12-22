@@ -1,0 +1,194 @@
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.UnitTest.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.UnitTest.pdb
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.pdb
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csc.exe
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csc.exe.config
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csc.rsp
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csi.exe
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csi.exe.config
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csi.rsp
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Console.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\vbc.exe
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\vbc.exe.config
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\vbc.rsp
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Common.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Service.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Common.pdb
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.pdb
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.dll.config
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.pdb
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.dll.config
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Service.pdb
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.pdb
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.dll.config
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csprojResolveAssemblyReference.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csprojResolveAssemblyReference.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csproj.CoreCompileInputs.cache
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csprojResolveAssemblyReference.cache
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csproj.CoreCompileInputs.cache
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ApplicationInsights.config
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csc.exe
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csc.exe.config
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csc.rsp
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csi.exe
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csi.exe.config
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\csi.rsp
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.AppContext.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Console.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Diagnostics.Process.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.Compression.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.FileSystem.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.IO.Pipes.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.AccessControl.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Claims.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Threading.Thread.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.ValueTuple.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Xml.XPath.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\vbc.exe
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\vbc.exe.config
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\vbc.rsp
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.UnitTest.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.UnitTest.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Common.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Service.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Optimization.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Mvc.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Razor.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Common.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.dll.config
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.dll.config
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Service.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.pdb
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.dll.config
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Optimization.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Mvc.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Razor.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.dll
+E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.pdb
