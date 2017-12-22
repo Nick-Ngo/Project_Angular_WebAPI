@@ -8,6 +8,7 @@ namespace ZShop.Data.Infrastructure
 {
     //Thưc thi các class đã định nghĩa
 
+    //T có nghĩ là 1 kiểu chưa định nghĩa
     public abstract class RepositoryBase<T> where T : class
     {
         #region Properties

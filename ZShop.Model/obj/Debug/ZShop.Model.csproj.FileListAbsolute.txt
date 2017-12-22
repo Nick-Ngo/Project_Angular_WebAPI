@@ -30,3 +30,4 @@ E:\Studys\Example\Project_Angular_WebAPI\ZShop.Model\bin\Debug\EntityFramework.S
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Model\obj\Debug\ZShop.Model.csproj.CoreCompileInputs.cache
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Model\obj\Debug\ZShop.Model.dll
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Model\obj\Debug\ZShop.Model.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Model\obj\Debug\ZShop.Model.csprojResolveAssemblyReference.cache

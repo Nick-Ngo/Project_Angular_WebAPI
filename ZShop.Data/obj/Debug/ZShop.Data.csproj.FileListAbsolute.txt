@@ -40,3 +40,5 @@ E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.pdb
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Model.dll
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Model.pdb
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Model.dll.config
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.Migrations.InitiaDB.resources
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csproj.GenerateResource.Cache
