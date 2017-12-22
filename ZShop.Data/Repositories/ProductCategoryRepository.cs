@@ -12,7 +12,7 @@ namespace ZShop.Data.Repositories
 
     public class ProductCategoryRepository : RepositoryBase<ProductCategory>, IProductCategoryRepository
     {
-        public ProductCategoryRepository(DbFactory dbFactory) : base(dbFactory)//Name base da nhận 1 đối tượng truyền vào
+        public ProductCategoryRepository(IDbFactory dbFactory) : base(dbFactory)//Name base da nhận 1 đối tượng truyền vào
         {
         }
 
