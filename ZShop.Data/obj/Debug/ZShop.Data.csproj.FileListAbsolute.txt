@@ -37,3 +37,6 @@ E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csprojR
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csproj.CoreCompileInputs.cache
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.dll
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Model.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Model.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Model.dll.config

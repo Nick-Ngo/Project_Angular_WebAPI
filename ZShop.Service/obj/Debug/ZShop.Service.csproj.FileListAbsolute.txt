@@ -40,3 +40,5 @@ E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.c
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.csproj.CoreCompileInputs.cache
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.dll
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\EntityFramework.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\EntityFramework.xml

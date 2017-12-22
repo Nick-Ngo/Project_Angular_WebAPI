@@ -11,7 +11,6 @@ E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Commo
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.csprojResolveAssemblyReference.cache
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\bin\Debug\ZShop.Common.dll
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\bin\Debug\ZShop.Common.pdb
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.csprojResolveAssemblyReference.cache
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.csproj.CoreCompileInputs.cache
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.dll
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.Common\obj\Debug\ZShop.Common.pdb

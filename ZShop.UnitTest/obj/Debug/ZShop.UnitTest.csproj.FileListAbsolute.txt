@@ -238,3 +238,5 @@ E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csproj.CoreCompileInputs.cache
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.dll
 E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\EntityFramework.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\EntityFramework.xml
