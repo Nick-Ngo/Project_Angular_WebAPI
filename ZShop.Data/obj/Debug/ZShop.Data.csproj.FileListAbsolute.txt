@@ -11,19 +11,6 @@ C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZSho
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Common.dll
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Common.pdb
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csprojResolveAssemblyReference.cache
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.dll.config
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.pdb
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\EntityFramework.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\EntityFramework.SqlServer.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Common.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Common.pdb
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\EntityFramework.xml
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\EntityFramework.SqlServer.xml
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csprojResolveAssemblyReference.cache
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csproj.CoreCompileInputs.cache
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.pdb
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.dll.config
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.dll
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.pdb
@@ -37,3 +24,16 @@ E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.cs
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csproj.CoreCompileInputs.cache
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.dll
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.dll.config
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Data.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\EntityFramework.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Common.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\ZShop.Common.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\EntityFramework.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csprojResolveAssemblyReference.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.csproj.CoreCompileInputs.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Data\obj\Debug\ZShop.Data.pdb

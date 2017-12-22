@@ -12,20 +12,6 @@ C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZSho
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Model.pdb
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Model.dll.config
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.csprojResolveAssemblyReference.cache
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Service.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Service.pdb
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Common.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Data.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Model.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Common.pdb
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Data.pdb
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Data.dll.config
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Model.pdb
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Model.dll.config
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.csprojResolveAssemblyReference.cache
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.csproj.CoreCompileInputs.cache
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.dll
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.pdb
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Service.dll
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Service.pdb
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Common.dll
@@ -40,3 +26,17 @@ E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Serv
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.csproj.CoreCompileInputs.cache
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.dll
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Service.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Service.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Common.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Data.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Model.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Common.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Data.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Data.dll.config
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Model.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\bin\Debug\ZShop.Model.dll.config
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.csprojResolveAssemblyReference.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.csproj.CoreCompileInputs.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.Service\obj\Debug\ZShop.Service.pdb

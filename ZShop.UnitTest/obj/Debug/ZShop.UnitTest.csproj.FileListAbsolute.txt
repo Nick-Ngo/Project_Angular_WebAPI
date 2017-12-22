@@ -94,8 +94,6 @@ C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZSho
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\hieun\Documents\Visual Studio 2017\Projects\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csprojResolveAssemblyReference.cache
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csprojResolveAssemblyReference.cache
-E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csproj.CoreCompileInputs.cache
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csprojResolveAssemblyReference.cache
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csproj.CoreCompileInputs.cache
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ApplicationInsights.config
@@ -192,3 +190,51 @@ E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Newtonsof
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.dll
 E:\Studys\Source Study\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ApplicationInsights.config
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.UnitTest.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.UnitTest.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Common.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Service.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Optimization.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Mvc.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Razor.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Common.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Data.dll.config
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Model.dll.config
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Service.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.pdb
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\ZShop.Web.dll.config
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Optimization.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Mvc.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.Razor.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csprojResolveAssemblyReference.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.csproj.CoreCompileInputs.cache
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.dll
+E:\Studys\Example\Project_Angular_WebAPI\ZShop.UnitTest\obj\Debug\ZShop.UnitTest.pdb
