@@ -9,10 +9,9 @@ namespace ZShop.Data.Infrastructure
     //Thưc thi các class đã định nghĩa
 
     //T có nghĩ là 1 kiểu chưa định nghĩa
-    public abstract class RepositoryBase<T> where T : class
+    public abstract class RepositoryBase<T> : IRepository<T> where T : class
     {
         #region Properties
-
         private ZShopDbContext dataContext;
         private readonly IDbSet<T> dbSet;
 
@@ -26,8 +25,7 @@ namespace ZShop.Data.Infrastructure
         {
             get { return dataContext ?? (dataContext = DbFactory.Init()); }
         }
-
-        #endregion Properties
+        #endregion
 
         protected RepositoryBase(IDbFactory dbFactory)
         {
@@ -36,7 +34,6 @@ namespace ZShop.Data.Infrastructure
         }
 
         #region Implementation
-
         public virtual void Add(T entity)
         {
             dbSet.Add(entity);
@@ -50,6 +47,11 @@ namespace ZShop.Data.Infrastructure
 
         public virtual void Delete(T entity)
         {
+            dbSet.Remove(entity);
+        }
+        public virtual void Delete(int id)
+        {
+            var entity = dbSet.Find(id);
             dbSet.Remove(entity);
         }
 
@@ -69,6 +71,7 @@ namespace ZShop.Data.Infrastructure
         {
             return dbSet.Where(where).ToList();
         }
+
 
         public virtual int Count(Expression<Func<T, bool>> where)
         {
@@ -135,7 +138,6 @@ namespace ZShop.Data.Infrastructure
         {
             return dataContext.Set<T>().Count<T>(predicate) > 0;
         }
-
-        #endregion Implementation
+        #endregion
     }
 }
